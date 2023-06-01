@@ -1,0 +1,12 @@
+#player
+player_opject,//path
+pos,0,0,0
+dirction,1,0,0
+inventory,egg,9mm_bullets,aids
+holdings,hand_gun
+#level
+level_path,./resources/assets/level1/level1.obj
+#npc
+sam,0,2,3
+hilal,0,2,3
+sandy,1,2,3

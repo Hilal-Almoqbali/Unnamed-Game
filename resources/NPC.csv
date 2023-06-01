@@ -1,0 +1,4 @@
+#npcname
+npc_model,path
+health,100
+voice_lines,path,path,path
