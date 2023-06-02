@@ -7,6 +7,7 @@ class player
 {
     public:
     player(const vec3 pos,const vec3 direction);
+    
     ~player();
     private:
 }
